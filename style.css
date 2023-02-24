@@ -6,6 +6,10 @@
     font-size: 24px;
     font-weight: bold;
 }
+.btn:hover{
+    color: black;
+    cursor: pointer;
+}
 .blue{
     background-color: #778D45;
     width: 190px;
@@ -15,6 +19,6 @@
    padding: 37px;
    margin-left: 40px;
     background-color:#AEC09A ;
-    font-weight: 700;
+    font-weight: 500;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
